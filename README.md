@@ -20,4 +20,4 @@ A responsive Spotify-inspired music streaming web application built using HTML, 
 
 ## Project Screenshot
 
-![Spotify Clone](screenshots/home.png)
+![Spotify Clone](Screenshot/image.png)
